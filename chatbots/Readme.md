@@ -3,7 +3,7 @@
 This is a chatbot using pytorch
 
 * The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
-* The approach is inspired from this video [video](https://youtu.be/RpWeNzfSUHw)
+* The approach is inspired from this [video](https://youtu.be/RpWeNzfSUHw)
 * you need to install `nltk.tokenize.punkt`
 * packages used: torch,numpy,nltk 
 
